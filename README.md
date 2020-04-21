@@ -1,1 +1,1 @@
-# acl20-personal-characteristics-predicting-persuasiveness
+# Paper: Exploiting Personal Characteristics of Debaters for Predicting Persuasiveness
