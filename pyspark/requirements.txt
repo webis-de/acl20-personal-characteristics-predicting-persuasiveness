@@ -1,0 +1,4 @@
+networkx == 2.2
+gensim == 3.6.0
+smart_open == 1.7.1
+vaderSentiment == 3.2.1

@@ -1,0 +1,4 @@
+libs/
+dist/
+metastore_db/
+derby.log
