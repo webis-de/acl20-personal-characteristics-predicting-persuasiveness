@@ -20,7 +20,6 @@ Khalid Al-Khatib, Michael Völske, Shahbaz Syed, Nikolay Kolyada, and Benno Stei
 }
 ```
 
-The provided code contains the set of PySpark jobs used for preprocessing and construction of final datasets from [Reddit Crawl](https://files.pushshift.io/reddit/) corpus. The jobs under `pyspark/` folder have to be packed into a zip archive and run with commands listed in `run.sh`. Use build commands in the Makefile.
+The provided code contains the set of PySpark jobs used for preprocessing and construction of final datasets from [Reddit Crawl](https://files.pushshift.io/reddit/) corpus. The jobs under `pyspark/` folder have to be packed into a zip archive and run with commands listed in `run.sh`. Respective build commands in the Makefile can be used.
 
-
-The provided Jupyter notebooks `task 1.ipyb` and `task 2.ipyb` show the main steps taken for two tasks studied in the paper, they load the final datasets, author features dictionaries, train models and do feature selection. 
+The provided Jupyter notebooks demostrate the main steps taken for two tasks studied in the paper: load the preprocessed datasets, prepare feature dictionaries, train models and do feature selection. (Task 1: notebooks 1-3, Task 2: notebook 4).
